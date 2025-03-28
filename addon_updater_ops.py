@@ -1357,7 +1357,7 @@ def register(bl_info):
 
     # Choose your own repository, must match git name for GitHUb and Bitbucket,
     # for GitLab use project ID (numbers only).
-    updater.repo = "https://github.com/devMische/tstaddon.git"
+    updater.repo = "tstaddon"
 
     # updater.addon = # define at top of module, MUST be done first
 
