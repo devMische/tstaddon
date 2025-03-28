@@ -20,7 +20,7 @@ bl_info = {
     "author": "DerMische",
     "description": "this is just for testing the update functionality",
     "blender": (4, 3, 0),
-    "version": (1, 0, 0),
+    "version": (1, 1, 0),
     "location": "",
     "warning": "",
     "category": "Generic",
