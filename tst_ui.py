@@ -3,7 +3,7 @@ import bpy
 
 class TST_PT_main_panel(bpy.types.Panel):
 
-    bl_label = "tst-addon 1.3.0"
+    bl_label = "tst-addon lorem"
     bl_idname = "TST_PT_main_panel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
