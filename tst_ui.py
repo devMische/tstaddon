@@ -11,4 +11,4 @@ class TST_PT_main_panel(bpy.types.Panel):
 
     def draw(self, context):
         layout = self.layout
-        layout.label(text="TST ADDON 1.1.0")
+        layout.label(text="TST ADDON 2.0.0")
