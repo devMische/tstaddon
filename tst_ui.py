@@ -11,4 +11,6 @@ class TST_PT_main_panel(bpy.types.Panel):
 
     def draw(self, context):
         layout = self.layout
-        layout.label(text="TST ADDON 2.0.0")
+        col = layout.column(align=True)
+        col.label(text="TST ADDON 2.1.0")
+        col.label(text="Thanks for testing!", icon="FUND")
